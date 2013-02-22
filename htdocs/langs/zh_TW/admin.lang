@@ -1,4 +1,3 @@
-
 /*
  * Language code: zh_CN
  * Automatic generated via autotranslator.php tool
@@ -41,7 +40,7 @@ ExternalUser=非公司員工用戶
 InternalUsers=公司員工用戶
 ExternalUsers=非公司員工用戶
 GlobalSetup=全域設定
-GUISetup=人機介面
+GUISetup=顯示介面
 SetupArea=安裝面積
 FormToTestFileUploadForm=測試文件的形式上傳（根據設置）
 IfModuleEnabled=註：是的，是有效的，只有模組<b>%s</b>是啟用
@@ -310,7 +309,7 @@ Module49Desc=編輯器的管理
 Module50Name=產品
 Module50Desc=產品的管理
 Module51Name=大量郵件
-Module51Desc=群眾郵寄文件的管理
+Module51Desc=群組郵寄文件的管理
 Module52Name=庫存
 Module52Desc=產品庫存的管理
 Module53Name=服務
@@ -416,7 +415,7 @@ Permission44=刪除項目（共享的項目和項目我聯繫）
 Permission61=閲讀干預
 Permission62=建立/修改干預
 Permission64=刪除干預
-Permission67=出口乾預措施
+Permission67=出口干預措施
 Permission71=閲讀成員
 Permission72=建立/修改成員
 Permission74=刪除成員
@@ -642,7 +641,7 @@ PhpModules=PHP模組
 PhpConf=PHP組態內容
 PhpWebLink=PHP網路連結
 Pear=梨
-PearPackages=梨的軟件包
+PearPackages=Pear軟件包
 Database=資料庫
 DatabaseServer=資料庫主機
 DatabaseName=資料庫名稱
